@@ -2,7 +2,7 @@
 
 API REST desenvolvida para suportar um aplicativo de gestão de academias, com foco em controle de usuários, treinos, dietas e planos.
 
-O projeto foi construído com uma arquitetura simples e escalável, utilizando Flask, SQLAlchemy e boas práticas de organização de código.
+O projeto foi construído com uma arquitetura simples e escalável, utilizando Flask, SQLAlchemy, Azure App Service.
 
 ---
 
