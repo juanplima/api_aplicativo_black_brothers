@@ -42,6 +42,8 @@ Essa separação permite:
 - Flask
 - SQLAlchemy
 - MySQL
+- Azure App Service
+- Docker
 - dotenv
 
 ---
